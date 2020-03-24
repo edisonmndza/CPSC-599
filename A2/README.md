@@ -12,7 +12,7 @@ S | Start/Stop the animation
 ] | Speed up the vehicle's speed
 
 ### Image Scaling ###
-Moving the image target closer or away from the camera adjusts it's scale to shrink or grow when the image is moved closer or away respectively. 
+Moving the image target closer or away from the camera adjusts it's scale to shrink or grow when the image is moved closer or away respectively from the camera. 
 
 
 targetImage is the default vuforia astronaut.
